@@ -16,3 +16,7 @@ algorithms about robot operation systems
 ## 古月居
   * [CSDN](http://blog.csdn.net/hcx25909)
   * [个人网站](https://www.guyuehome.com/)
+## IO多路复用
+  * [select](https://www.cnblogs.com/skyfsm/p/7079458.html)
+  * [poll](https://www.cnblogs.com/orlion/p/6142838.html)
+  * [epoll](https://blog.csdn.net/shenya1314/article/details/73691088)
