@@ -20,3 +20,20 @@ algorithms about robot operation systems
   * [select](https://www.cnblogs.com/skyfsm/p/7079458.html)
   * [poll](https://www.cnblogs.com/orlion/p/6142838.html)
   * [epoll](https://blog.csdn.net/shenya1314/article/details/73691088)
+## Git/TortoiseGit分支管理
+  ```
+  HEAD: 当前活跃分支指针
+  master: 主干
+  origin: 远程仓库名字
+  git remote -v: 查看origin指向
+  git clone分支:
+                使用TortoiseGit在界面选择制定分支即可
+                使用git clone -b <分支名称> <url>
+  git push origin brach_name
+  创建分支:
+          使用TortoiseGit=>Create Branch
+          使用git branch <branch_name>
+  提交分支:
+          使用TortoiseGit=>Checkout branch=>commit
+          使用git checkout <branch_name>; git push --set-upstream origin <branch_name>
+  ```
