@@ -37,3 +37,13 @@ algorithms about robot operation systems
           使用TortoiseGit=>Checkout branch=>commit
           使用git checkout <branch_name>; git push --set-upstream origin <branch_name>
   ```
+## Apache apollo配置
+  * [Project](https://github.com/apache/activemq-apollo)
+  * 安装JRE，配置环境变量JAVA_HOME  
+  * 下载apache apollo
+  * 解压后运行"apollo create BrokerName BrokerFolder"
+  * 进入BrokerFolder/bin目录运行"apollo-broker run"
+  * 进入"http:\/\/127.0.0.1:61683"登录并配置
+  * 在我的使用中，直接编辑user/group文件添加用户会导致无法登陆，所以建议通过网页的方式配置
+  * 如果网页配置后新账户仍然无法登陆，将"Authencation enable=false"
+  * [配置](https://blog.csdn.net/bksqmy/article/details/84305405)
