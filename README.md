@@ -47,3 +47,21 @@ algorithms about robot operation systems
   * 在我的使用中，直接编辑user/group文件添加用户会导致无法登陆，所以建议通过网页的方式配置
   * 如果网页配置后新账户仍然无法登陆，将"Authencation enable=false"
   * [配置](https://blog.csdn.net/bksqmy/article/details/84305405)
+  
+## C#教程
+  * [无废话WCF入门教程一[什么是WCF]](https://www.cnblogs.com/iamlilinfeng/archive/2012/09/25/2700049.html)
+  * [无废话MVC入门教程一[概述、环境安装、创建项目]](https://www.cnblogs.com/iamlilinfeng/archive/2013/02/24/2922869.html)
+  * [C#教程之自己动手写映射第一节[动机]](https://www.cnblogs.com/iamlilinfeng/archive/2012/07/20/2601753.html)
+  
+## Spark教程
+  * [Spark入门教程（1）——spark是什么及发展趋势概述](https://blog.csdn.net/xwc35047/article/details/51072145)
+  * [Spark入门教程(2)---开发、编译配置](https://blog.csdn.net/xwc35047/article/details/51119608)
+  * [spark入门教程（3）--Spark 核心API开发](https://blog.csdn.net/xwc35047/article/details/51146622)
+
+## MES/WMS/ERP
+  * [MES Wiki](https://en.wikipedia.org/wiki/Manufacturing_execution_system)
+  * [WMS Wiki](https://en.wikipedia.org/wiki/Warehouse_management_system)
+  * [ERP Wiki](https://en.wikipedia.org/wiki/Enterprise_resource_planning)
+  * [What’s a MES? How does it differ from an ERP and a WMS?](https://www.interlakemecalux.com/blog/mes-manufacturing-execution-system)
+  * [ERP: definition and how it is different from a WMS](https://www.interlakemecalux.com/blog/erp-definition-differences-wms)
+  * [Manufacturing execution systems (MES) meet the warehouse](https://www.logisticsmgmt.com/article/manufacturing_execution_systems_mes_meets_the_warehouse)
