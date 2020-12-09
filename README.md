@@ -52,6 +52,8 @@ algorithms about robot operation systems
   * [无废话WCF入门教程一[什么是WCF]](https://www.cnblogs.com/iamlilinfeng/archive/2012/09/25/2700049.html)
   * [无废话MVC入门教程一[概述、环境安装、创建项目]](https://www.cnblogs.com/iamlilinfeng/archive/2013/02/24/2922869.html)
   * [C#教程之自己动手写映射第一节[动机]](https://www.cnblogs.com/iamlilinfeng/archive/2012/07/20/2601753.html)
+  * [Tutorial: Create a web API with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio)
+  * [Create Simple Web API In ASP.NET MVC](https://www.c-sharpcorner.com/article/create-simple-web-api-in-asp-net-mvc/)
   
 ## Spark教程
   * [Spark入门教程（1）——spark是什么及发展趋势概述](https://blog.csdn.net/xwc35047/article/details/51072145)
