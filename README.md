@@ -71,3 +71,7 @@ algorithms about robot operation systems
 ## PDFs
   * [A survey of literature on automated storage and retrieval systems](https://www.semanticscholar.org/paper/A-survey-of-literature-on-automated-storage-and-Roodbergen-Vis/797a66b2d8ab1cef38662e6579b80576fe284d78)
   * [Multi-robot Task Allocation: A Review of the State-of-the-Art](https://www.semanticscholar.org/paper/Multi-robot-Task-Allocation%3A-A-Review-of-the-Khamis-Hussein/ed65a6529e158c1402ea6bdeb679f5654ba33584)
+  
+## 多线程
+  * [三种分布式锁](https://blog.csdn.net/wuzhiwei549/article/details/80692278)
+  * [函数可重入性](https://blog.csdn.net/acs713/article/details/20034511)
