@@ -54,6 +54,7 @@ algorithms about robot operation systems
   * [C#教程之自己动手写映射第一节[动机]](https://www.cnblogs.com/iamlilinfeng/archive/2012/07/20/2601753.html)
   * [Tutorial: Create a web API with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio)
   * [Create Simple Web API In ASP.NET MVC](https://www.c-sharpcorner.com/article/create-simple-web-api-in-asp-net-mvc/)
+  * [C# NuGet包管理命令](https://www.cnblogs.com/zhaogaojian/p/8398531.html)
   
 ## Spark教程
   * [Spark入门教程（1）——spark是什么及发展趋势概述](https://blog.csdn.net/xwc35047/article/details/51072145)
@@ -75,3 +76,13 @@ algorithms about robot operation systems
 ## 多线程
   * [三种分布式锁](https://blog.csdn.net/wuzhiwei549/article/details/80692278)
   * [函数可重入性](https://blog.csdn.net/acs713/article/details/20034511)
+  
+## Jenkins
+  * [Jenkins自动化部署入门详细教程](https://www.cnblogs.com/wfd360/p/11314697.html)
+  
+## Database
+  * [PostgreSQL](https://www.postgresql.org/docs/devel/)
+  * [SP_GiST](https://www.postgresql.org/docs/devel/spgist-intro.html)
+  * [PostgreSQL Indexes](https://leopard.in.ua/2015/04/13/postgresql-indexes)
+  
+  
