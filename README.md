@@ -84,5 +84,6 @@ algorithms about robot operation systems
   * [PostgreSQL](https://www.postgresql.org/docs/devel/)
   * [SP_GiST](https://www.postgresql.org/docs/devel/spgist-intro.html)
   * [PostgreSQL Indexes](https://leopard.in.ua/2015/04/13/postgresql-indexes)
+  * [install MariaDB](https://www.cnblogs.com/ruichow/p/11399367.html)
   
   
