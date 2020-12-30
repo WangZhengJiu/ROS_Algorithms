@@ -81,10 +81,10 @@
         <persistenceAdapter>
             <kahaDB directory="${activemq.data}/kahadb"/>
         </persistenceAdapter>
-		
-		<plugins>    
-			<loggingBrokerPlugin logAll="true" logProducerEvents="true" logConsumerEvents="true"/>           
-		</plugins>
+
+        <plugins>    
+            <loggingBrokerPlugin logAll="true" logProducerEvents="true" logConsumerEvents="true"/>           
+        </plugins>
 
 
           <!--
