@@ -1,5 +1,4 @@
 # ROS_Algorithms
-algorithms about robot operation systems
   * [Offical Website](https://www.ros.org/)
 
 ## A* Algorithm
