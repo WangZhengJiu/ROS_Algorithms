@@ -83,7 +83,7 @@
         </persistenceAdapter>
 
         <plugins>    
-            <loggingBrokerPlugin logAll="true" logProducerEvents="true" logConsumerEvents="true"/>           
+            <loggingBrokerPlugin logAll="false" logProducerEvents="true" logConsumerEvents="true"/>           
         </plugins>
 
 
