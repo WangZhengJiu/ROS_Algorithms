@@ -54,6 +54,7 @@
   * [Tutorial: Create a web API with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio)
   * [Create Simple Web API In ASP.NET MVC](https://www.c-sharpcorner.com/article/create-simple-web-api-in-asp-net-mvc/)
   * [C# NuGet包管理命令](https://www.cnblogs.com/zhaogaojian/p/8398531.html)
+  * [async/await的用法](https://blog.csdn.net/qc530167365/article/details/83108848)
   
 ## Spark教程
   * [Spark入门教程（1）——spark是什么及发展趋势概述](https://blog.csdn.net/xwc35047/article/details/51072145)
@@ -109,10 +110,13 @@
   * [ActiveMQ Logging Interceptor](https://activemq.apache.org/logging-interceptor)
   * [ActiveMQ In Action about Logging](https://livebook.manning.com/book/activemq-in-action/chapter-14/30)
   * [ActiveMQ Monitor Tool](https://www.site24x7.com/help/log-management/activemq-logs.html)
-  * [ActiveMQ服务重启 收不到消息](https://blog.csdn.net/tiantiandjava/article/details/50914013)
+  * [ActiveMQ服务重启收不到消息](https://blog.csdn.net/tiantiandjava/article/details/50914013)
   * [ActiveMQ高并发发送消息异常解决方法](https://blog.csdn.net/wsyyyyy/article/details/79888521)
   * [ActiveMQ 用户名密码设置](https://www.cnblogs.com/MIC2016/p/6196789.html)
   * [ActiveMQ主题/订阅模式添加用户名、密码、IP的连接验证](https://blog.csdn.net/qq_37306041/article/details/82626785)
   * [MQTT 5.x Protocol Details](https://docs.oasis-open.org/mqtt/mqtt/v5.0/os/mqtt-v5.0-os.html)
   * [MQTTNet](https://github.com/chkr1011/MQTTnet)
-  * [C#使用 MQTTnet 快速实现 MQTT 通信](https://blog.csdn.net/panwen1111/article/details/79245161)
+  * [C#使用MQTTnet快速实现MQTT通信](https://blog.csdn.net/panwen1111/article/details/79245161)
+  * [MQTTNet Github](https://github.com/chkr1011/MQTTnet)
+  * [MQTTNet Client](https://github.com/chkr1011/MQTTnet/wiki/Client)
+  * [C#使用MQTTnet快速实现MQTT通信](https://blog.csdn.net/panwen1111/article/details/79245161)
