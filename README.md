@@ -114,3 +114,5 @@
   * [ActiveMQ 用户名密码设置](https://www.cnblogs.com/MIC2016/p/6196789.html)
   * [ActiveMQ主题/订阅模式添加用户名、密码、IP的连接验证](https://blog.csdn.net/qq_37306041/article/details/82626785)
   * [MQTT 5.x Protocol Details](https://docs.oasis-open.org/mqtt/mqtt/v5.0/os/mqtt-v5.0-os.html)
+  * [MQTTNet](https://github.com/chkr1011/MQTTnet)
+  * [C#使用 MQTTnet 快速实现 MQTT 通信](https://blog.csdn.net/panwen1111/article/details/79245161)
