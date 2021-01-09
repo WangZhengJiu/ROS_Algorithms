@@ -7,21 +7,31 @@
   * [Path Finding A*](https://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html)
   * [Path Finding in Games](https://www.redblobgames.com/)
   * [Red Blob Blogs](https://simblob.blogspot.com/)
+  
 ## DWA Algorithm
   * [DWA介绍](https://www.cnblogs.com/kuangxionghui/p/8484803.html)
+  
 ## ROS
   * [Introduction](https://blog.csdn.net/hcx25909/article/details/8795043)
   * [Architecture](https://blog.csdn.net/hcx25909/article/details/8795211)
   * [Tutorial](https://blog.csdn.net/hcx25909/article/details/8811313)
+  * [AVG调度方法入门](https://blog.csdn.net/robinvista/article/details/73348711)
+  * [基于时间窗的AGV调度算法优化](https://blog.csdn.net/jack_20/article/details/79453336)
+  * [基于时间窗的AGV任务调度方法](https://xueshu.baidu.com/usercenter/paper/show?paperid=1p6b0rr0y95g08q0bt2a0cv0ff321571&site=xueshu_se)
+  * [无向Petri网的多AGV最优路径方法研究](https://xueshu.baidu.com/usercenter/paper/show?paperid=6706f8516585e20dd31be412b77af2e3)
+  
 ## Casun
   * [Official Website](http://www.casun.cn/)
+  
 ## 古月居
   * [CSDN](http://blog.csdn.net/hcx25909)
   * [个人网站](https://www.guyuehome.com/)
+  
 ## IO多路复用
   * [select](https://www.cnblogs.com/skyfsm/p/7079458.html)
   * [poll](https://www.cnblogs.com/orlion/p/6142838.html)
   * [epoll](https://blog.csdn.net/shenya1314/article/details/73691088)
+  
 ## Git/TortoiseGit分支管理
   ```
   HEAD: 当前活跃分支指针
@@ -39,6 +49,7 @@
           使用TortoiseGit=>Checkout branch=>commit
           使用git checkout <branch_name>; git push --set-upstream origin <branch_name>
   ```
+  
 ## Apache apollo配置
   * [Project](https://github.com/apache/activemq-apollo)
   * 安装JRE，配置环境变量JAVA_HOME  
@@ -78,7 +89,7 @@
   
 ## 多线程
   * [三种分布式锁](https://blog.csdn.net/wuzhiwei549/article/details/80692278)
-  * [函数可重入性](https://blog.csdn.net/acs713/article/details/20034511)
+  * [函数可重入性](https://blog.csdn.net/acs713/article/details/20034511)  
   
 ## Jenkins
   * [Jenkins自动化部署入门详细教程](https://www.cnblogs.com/wfd360/p/11314697.html)
@@ -87,7 +98,7 @@
   * [PostgreSQL](https://www.postgresql.org/docs/devel/)
   * [SP_GiST](https://www.postgresql.org/docs/devel/spgist-intro.html)
   * [PostgreSQL Indexes](https://leopard.in.ua/2015/04/13/postgresql-indexes)
-  * [install MariaDB](https://www.cnblogs.com/ruichow/p/11399367.html)
+  * [install MariaDB](https://www.cnblogs.com/ruichow/p/11399367.html)  
   
 ## MQTT
   * [ActiveMQ 5.x Features](https://activemq.apache.org/features)
