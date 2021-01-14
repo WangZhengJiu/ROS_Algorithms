@@ -30,6 +30,8 @@
   * [Create Simple Web API In ASP.NET MVC](https://www.c-sharpcorner.com/article/create-simple-web-api-in-asp-net-mvc/)
   * [C# NuGet包管理命令](https://www.cnblogs.com/zhaogaojian/p/8398531.html)
   * [async/await的用法](https://blog.csdn.net/qc530167365/article/details/83108848)
+  * [String Format](https://docs.microsoft.com/en-us/dotnet/api/system.string?view=net-5.0)
+  * [Composite Formatting](https://docs.microsoft.com/en-us/dotnet/standard/base-types/composite-formatting)
 
 ## Database
   * [PostgreSQL](https://www.postgresql.org/docs/devel/)
