@@ -122,6 +122,12 @@
   * [A survey of literature on automated storage and retrieval systems](https://www.semanticscholar.org/paper/A-survey-of-literature-on-automated-storage-and-Roodbergen-Vis/797a66b2d8ab1cef38662e6579b80576fe284d78)
   * [Multi-robot Task Allocation: A Review of the State-of-the-Art](https://www.semanticscholar.org/paper/Multi-robot-Task-Allocation%3A-A-Review-of-the-Khamis-Hussein/ed65a6529e158c1402ea6bdeb679f5654ba33584)
   
+## OpenTCS
+  * [Overview](https://www.opentcs.org/en/index.html)
+  * [Distribution Documentation](https://www.opentcs.org/docs/5.0/index.html)
+  * [Dev Guide](https://www.opentcs.org/docs/5.0/developer/developers-guide/opentcs-developers-guide.html)
+  * [User Guide](https://www.opentcs.org/docs/5.0/user/opentcs-users-guide.html)
+  
 ## ROS调度算法
   * [Introduction](https://blog.csdn.net/hcx25909/article/details/8795043)
   * [Architecture](https://blog.csdn.net/hcx25909/article/details/8795211)
