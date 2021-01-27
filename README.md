@@ -32,6 +32,8 @@
   * [async/await的用法](https://blog.csdn.net/qc530167365/article/details/83108848)
   * [String Format](https://docs.microsoft.com/en-us/dotnet/api/system.string?view=net-5.0)
   * [Composite Formatting](https://docs.microsoft.com/en-us/dotnet/standard/base-types/composite-formatting)
+  * [利用AssemblyResolve事件加载任意位置的程序集](http://blog.junwen38.com/archives/656)
+  * [Resolve assembly loads](https://docs.microsoft.com/zh-cn/dotnet/standard/assembly/resolve-loads)
 
 ## Database
   * [PostgreSQL](https://www.postgresql.org/docs/devel/)
@@ -122,6 +124,10 @@
   * [A survey of literature on automated storage and retrieval systems](https://www.semanticscholar.org/paper/A-survey-of-literature-on-automated-storage-and-Roodbergen-Vis/797a66b2d8ab1cef38662e6579b80576fe284d78)
   * [Multi-robot Task Allocation: A Review of the State-of-the-Art](https://www.semanticscholar.org/paper/Multi-robot-Task-Allocation%3A-A-Review-of-the-Khamis-Hussein/ed65a6529e158c1402ea6bdeb679f5654ba33584)
   
+## NHibernate
+  * [Fluent NHibernate介绍和入门指南](https://www.cnblogs.com/13yan/p/5685307.html)
+  * [NHibernate Tutorial](https://www.tutorialspoint.com/nhibernate/nhibernate_quick_guide.htm)
+
 ## OpenTCS
   * [Overview](https://www.opentcs.org/en/index.html)
   * [Distribution Documentation](https://www.opentcs.org/docs/5.0/index.html)
