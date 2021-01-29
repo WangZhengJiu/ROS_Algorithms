@@ -34,6 +34,8 @@
   * [Composite Formatting](https://docs.microsoft.com/en-us/dotnet/standard/base-types/composite-formatting)
   * [利用AssemblyResolve事件加载任意位置的程序集](http://blog.junwen38.com/archives/656)
   * [Resolve assembly loads](https://docs.microsoft.com/zh-cn/dotnet/standard/assembly/resolve-loads)
+  * [lock usage](https://docs.microsoft.com/zh-cn/dotnet/csharp/language-reference/keywords/lock-statement)
+  * [设置程序PrivatePath，配置引用程序集的路径（分离exe和dll）](https://blog.csdn.net/Vblegend_2013/article/details/79712911)
 
 ## Database
   * [PostgreSQL](https://www.postgresql.org/docs/devel/)
@@ -133,6 +135,10 @@
   * [Distribution Documentation](https://www.opentcs.org/docs/5.0/index.html)
   * [Dev Guide](https://www.opentcs.org/docs/5.0/developer/developers-guide/opentcs-developers-guide.html)
   * [User Guide](https://www.opentcs.org/docs/5.0/user/opentcs-users-guide.html)
+  
+## Operating System
+  * [CS-Notes](https://github.com/CyC2018/CS-Notes)
+  * [计算机操作系统_银行家算法](https://blog.csdn.net/qq_36260974/article/details/84404369)
   
 ## ROS调度算法
   * [Introduction](https://blog.csdn.net/hcx25909/article/details/8795043)
