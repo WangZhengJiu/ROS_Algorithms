@@ -148,6 +148,9 @@
   * [基于时间窗的AGV调度算法优化](https://blog.csdn.net/jack_20/article/details/79453336)
   * [基于时间窗的AGV任务调度方法](https://xueshu.baidu.com/usercenter/paper/show?paperid=1p6b0rr0y95g08q0bt2a0cv0ff321571&site=xueshu_se)
   * [无向Petri网的多AGV最优路径方法研究](https://xueshu.baidu.com/usercenter/paper/show?paperid=6706f8516585e20dd31be412b77af2e3)
+  * [基于CBS算法的物流分拣多AGV路径规划的研究](http://www.doc88.com/p-1476197853385.html)
+  * [Conflict-Based Search For Optimal Multi-Agent Path Finding](https://www.sciencedirect.com/science/article/pii/S0004370214001386)
+  * [CBS Implementation: RawSim-O](https://github.com/merschformann/RAWSim-O)
   
 ## Spark教程
   * [Spark入门教程（1）——spark是什么及发展趋势概述](https://blog.csdn.net/xwc35047/article/details/51072145)
