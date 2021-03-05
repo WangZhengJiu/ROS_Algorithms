@@ -140,7 +140,7 @@
   * [CS-Notes](https://github.com/CyC2018/CS-Notes)
   * [计算机操作系统_银行家算法](https://blog.csdn.net/qq_36260974/article/details/84404369)
   
-## ROS调度算法
+## ROS调度以及路径规划算法
   * [Introduction](https://blog.csdn.net/hcx25909/article/details/8795043)
   * [Architecture](https://blog.csdn.net/hcx25909/article/details/8795211)
   * [Tutorial](https://blog.csdn.net/hcx25909/article/details/8811313)
@@ -152,6 +152,7 @@
   * [Conflict-Based Search For Optimal Multi-Agent Path Finding](https://www.sciencedirect.com/science/article/pii/S0004370214001386)
   * [CBS Implementation: RawSim-O](https://github.com/merschformann/RAWSim-O)
   * [Reservation Table Introduction](http://www.ecs.umass.edu/ece/koren/architecture/ResTable/SimpRes/)
+  * [Path planning for Robotic Mobile Fulfillment Systems](https://arxiv.org/abs/1706.09347)
   
 ## Spark教程
   * [Spark入门教程（1）——spark是什么及发展趋势概述](https://blog.csdn.net/xwc35047/article/details/51072145)
