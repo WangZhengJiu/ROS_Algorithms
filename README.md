@@ -151,6 +151,7 @@
   * [基于CBS算法的物流分拣多AGV路径规划的研究](http://www.doc88.com/p-1476197853385.html)
   * [Conflict-Based Search For Optimal Multi-Agent Path Finding](https://www.sciencedirect.com/science/article/pii/S0004370214001386)
   * [CBS Implementation: RawSim-O](https://github.com/merschformann/RAWSim-O)
+  * [Reservation Table Introduction](http://www.ecs.umass.edu/ece/koren/architecture/ResTable/SimpRes/)
   
 ## Spark教程
   * [Spark入门教程（1）——spark是什么及发展趋势概述](https://blog.csdn.net/xwc35047/article/details/51072145)
