@@ -153,6 +153,7 @@
   * [CBS Implementation: RawSim-O](https://github.com/merschformann/RAWSim-O)
   * [Reservation Table Introduction](http://www.ecs.umass.edu/ece/koren/architecture/ResTable/SimpRes/)
   * [Path planning for Robotic Mobile Fulfillment Systems](https://arxiv.org/abs/1706.09347)
+  * [WHCA* - Windowed Hirarchical Cooperative A *](https://www.aaai.org/Library/AIIDE/2005/aiide05-020.php)
   
 ## Spark教程
   * [Spark入门教程（1）——spark是什么及发展趋势概述](https://blog.csdn.net/xwc35047/article/details/51072145)
