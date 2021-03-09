@@ -149,11 +149,13 @@
   * [基于时间窗的AGV任务调度方法](https://xueshu.baidu.com/usercenter/paper/show?paperid=1p6b0rr0y95g08q0bt2a0cv0ff321571&site=xueshu_se)
   * [无向Petri网的多AGV最优路径方法研究](https://xueshu.baidu.com/usercenter/paper/show?paperid=6706f8516585e20dd31be412b77af2e3)
   * [基于CBS算法的物流分拣多AGV路径规划的研究](http://www.doc88.com/p-1476197853385.html)
-  * [Conflict-Based Search For Optimal Multi-Agent Path Finding](https://www.sciencedirect.com/science/article/pii/S0004370214001386)
-  * [CBS Implementation: RawSim-O](https://github.com/merschformann/RAWSim-O)
   * [Reservation Table Introduction](http://www.ecs.umass.edu/ece/koren/architecture/ResTable/SimpRes/)
   * [Path planning for Robotic Mobile Fulfillment Systems](https://arxiv.org/abs/1706.09347)
   * [WHCA* - Windowed Hirarchical Cooperative A *](https://www.aaai.org/Library/AIIDE/2005/aiide05-020.php)
+  * [Conflict-Based Search For Optimal Multi-Agent Path Finding](https://www.sciencedirect.com/science/article/pii/S0004370214001386)
+  * [CBS Implementation: RawSim-O](https://github.com/merschformann/RAWSim-O)
+  * [MA-CBS](https://www.sciencedirect.com/science/article/pii/S0004370214001386)
+  * [MO-CBS](https://arxiv.org/abs/2101.03805)
   
 ## Spark教程
   * [Spark入门教程（1）——spark是什么及发展趋势概述](https://blog.csdn.net/xwc35047/article/details/51072145)
