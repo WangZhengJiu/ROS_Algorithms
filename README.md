@@ -20,6 +20,8 @@
   * [Path Finding A*](https://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html)
   * [Path Finding in Games](https://www.redblobgames.com/)
   * [Red Blob Blogs](https://simblob.blogspot.com/)
+  * [Factorio RRA*](https://factorio.com/blog/post/fff-317)
+
   
 ## Casun
   * [Official Website](http://www.casun.cn/)
