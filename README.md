@@ -14,6 +14,8 @@
 
 ## A* like Algorithm
   * [A*介绍](https://blog.csdn.net/qq_36946274/article/details/81982691)
+  * [A* Wiki](https://en.wikipedia.org/wiki/A*_search_algorithm)
+  * [LifeLong Planning A*](https://en.wikipedia.org/wiki/Lifelong_Planning_A*)
   * [算法动态演示](https://github.com/zhm-real/PathPlanning)
   * [Path Finding A*](https://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html)
   * [Path Finding in Games](https://www.redblobgames.com/)
