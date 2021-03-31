@@ -21,7 +21,8 @@
   * [Path Finding in Games](https://www.redblobgames.com/)
   * [Red Blob Blogs](https://simblob.blogspot.com/)
   * [Factorio RRA*](https://factorio.com/blog/post/fff-317)
-
+  * [Space Time A* Introduction](https://www.davidsilver.uk/wp-content/uploads/2020/03/coop-path-AIWisdom.pdf)
+  * [Space Time A* in Github](https://github.com/GavinPHR/Space-Time-AStar)
   
 ## Casun
   * [Official Website](http://www.casun.cn/)
