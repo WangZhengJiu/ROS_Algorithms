@@ -164,6 +164,10 @@
   * [CBS Implementation: RawSim-O](https://github.com/merschformann/RAWSim-O)
   * [MA-CBS](https://www.sciencedirect.com/science/article/pii/S0004370214001386)
   * [MO-CBS](https://arxiv.org/abs/2101.03805)
+  * [CBS Improvement](https://www.ijcai.org/Proceedings/2019/0063.pdf)
+  * [PathPlanning Github](https://github.com/pathplanning)
+  * [CCBS Github](https://github.com/PathPlanning/Continuous-CBS)
+  * [CCBS Literature](https://www.ijcai.org/Proceedings/2019/0006.pdf)
   
 ## Spark教程
   * [Spark入门教程（1）——spark是什么及发展趋势概述](https://blog.csdn.net/xwc35047/article/details/51072145)
