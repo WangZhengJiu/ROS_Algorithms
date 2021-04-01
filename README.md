@@ -25,6 +25,8 @@
   * [Factorio RRA*](https://factorio.com/blog/post/fff-317)
   * [Space Time A* Introduction](https://www.davidsilver.uk/wp-content/uploads/2020/03/coop-path-AIWisdom.pdf)
   * [Space Time A* in Github](https://github.com/GavinPHR/Space-Time-AStar)
+  * [D* - Dynamic A*](https://en.wikipedia.org/wiki/D*)
+  * [Incremental A*](https://papers.nips.cc/paper/2001/file/a591024321c5e2bdbd23ed35f0574dde-Paper.pdf)
   
 ## Casun
   * [Official Website](http://www.casun.cn/)
