@@ -45,7 +45,25 @@
 ## 7.Experimental Evaluation
 
 ## 8.An Application to Symbolic Planning
-  *
+  * LPA\* applies to replanning problems where edges or vertices are added or deleted, or the cost of edges are changed
+  
+### 8.1.Heuristic Search-Based Replanning with LifeLong Planning A\*
+  * many heuristic search-based planners solve STRIPS-planning problems with ground planning operators
+  * LPA\* performs a forward search in the space of world state using the consistent h(max)-heuristic that was first developed in the context of HSP
+  * **The SHERPA(Speedy HEuristic search-based RePlAnner) Replanner Algorithm**
+  
+### 8.2.An Example of Heuristic Search-Based Replanning
+
+### 8.3.Experimental Evaluation of Heuristic Search-Based Replanning
+
+## 9.Related Research
+  * The idea of incremental search has also been studied in the context of dynamic constraint satisfaction and constraint logic programming problems
+  * Symbolic Replanning: A difference between LPA\* and the other replanner is that LPA\* not only remember the previous plans but also the previous plan-construction processes; another difference between LPA\* and the other replanner is that the quality of the plans of LPA\* is as good as the plan quality achieved by using it to search from scrach; a third difference between LPA\* and the other replanner is that LPA\* identify quickly which part of previous plan-construction processes cannot be reused to construct the new plan and then uses an efficient specialized replanning method to plan these parts
+  * Incremental Search: if arbitrary sequences of edge insertions, deletions, or weight changes are allowed, then dynamic shortest path problems are called **fully dynamic shortest path problems**. LPA\* is an incremental search method that solves fully dynamic shortest path problems, but different from the incremental search methods cited above, use heuristics to focus its search and thus combines two different techniques to reduce its search effort
+  * Incremental Heuristic Search: D\* is the first truly incremental heuristic search method. It plans routes for mobile robots that move in initially unknow terrain towards given goal coordinates by searching from goal coordinates towards the current coordinates of the robots. We have extended LPA\* to solve the same path-planning problems as D\*, result in **D\* Lite**
+  * Researchers have now started to investigate alternative ways to making A\* incremental and thus alternatives to LPA\*
+  
+## 10.Conclusions
   
 ## The Proofs
   
