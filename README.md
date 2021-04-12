@@ -23,6 +23,8 @@
   * [Path Finding in Games](https://www.redblobgames.com/)
   * [Red Blob Blogs](https://simblob.blogspot.com/)
   * [Factorio RRA*](https://factorio.com/blog/post/fff-317)
+  * [铁路系统基础知识了解](https://www.zhihu.com/question/26692331/answer/57402697)
+  * [Factorio Tutorial:Train signals](https://wiki.factorio.com/Tutorial:Train_signals)
   * [Space Time A* Introduction](https://www.davidsilver.uk/wp-content/uploads/2020/03/coop-path-AIWisdom.pdf)
   * [Space Time A* in Github](https://github.com/GavinPHR/Space-Time-AStar)
   * [D* - Dynamic A*](https://en.wikipedia.org/wiki/D*)
