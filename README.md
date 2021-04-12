@@ -25,6 +25,7 @@
   * [Factorio RRA*](https://factorio.com/blog/post/fff-317)
   * [铁路系统基础知识了解](https://www.zhihu.com/question/26692331/answer/57402697)
   * [Factorio Tutorial:Train signals](https://wiki.factorio.com/Tutorial:Train_signals)
+  * [Rail Networks in Factorio](https://rezzealaux.wordpress.com/2017/11/22/how-perfect-rail-networks-work/)
   * [Space Time A* Introduction](https://www.davidsilver.uk/wp-content/uploads/2020/03/coop-path-AIWisdom.pdf)
   * [Space Time A* in Github](https://github.com/GavinPHR/Space-Time-AStar)
   * [D* - Dynamic A*](https://en.wikipedia.org/wiki/D*)
