@@ -175,6 +175,7 @@
   * [PathPlanning Github](https://github.com/pathplanning)
   * [CCBS Github](https://github.com/PathPlanning/Continuous-CBS)
   * [CCBS Literature](https://www.ijcai.org/Proceedings/2019/0006.pdf)
+  * [Operation Decomposition](https://www.cs.huji.ac.il/~jeff/aaai10/02/AAAI10-039.pdf)
   
 ## Spark教程
   * [Spark入门教程（1）——spark是什么及发展趋势概述](https://blog.csdn.net/xwc35047/article/details/51072145)
