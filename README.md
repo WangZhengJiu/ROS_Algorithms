@@ -31,6 +31,7 @@
   * [D* - Dynamic A*](https://en.wikipedia.org/wiki/D*)
   * [Incremental A*](https://papers.nips.cc/paper/2001/file/a591024321c5e2bdbd23ed35f0574dde-Paper.pdf)
   * [Exploiting Subgraph Structure in Multi-Robot Path Planning](https://www.aaai.org/Papers/JAIR/Vol31/JAIR-3115.pdf)
+  * [A* Searching when destination is impassable](https://gamedev.stackexchange.com/questions/90555/how-can-i-make-a-finish-faster-when-the-destination-is-impassable)
   
 ## Casun
   * [Official Website](http://www.casun.cn/)
