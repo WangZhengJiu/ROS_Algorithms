@@ -85,6 +85,11 @@
   
 ## Jenkins
   * [Jenkins自动化部署入门详细教程](https://www.cnblogs.com/wfd360/p/11314697.html)
+
+## Machine Learning
+  * [David Silver](https://www.davidsilver.uk)
+  * [Reforcement Learning](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
+  * [AlphaZero](https://deepmind.com/research/case-studies/alphago-the-story-so-far#alphazero)
   
 ## MES/WMS/ERP
   * [MES Wiki](https://en.wikipedia.org/wiki/Manufacturing_execution_system)
